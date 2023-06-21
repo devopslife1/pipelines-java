@@ -23,3 +23,10 @@ steps:
 - task: WhiteSource@21
   inputs:
     cwd: '$(System.DefaultWorkingDirectory)'
+- task: SonarCloudPrepare@1
+  inputs:
+    SonarCloud: 'sonar cloud'
+    organization: 'microland33'
+    scannerMode: 'MSBuild'
+    projectKey: 'microland33'
+    projectName: 'microland33'
