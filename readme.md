@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/Microland33/Demo%20project/_apis/build/status%2Fdevopslife1.pipelines-java%20(1)?branchName=main)](https://dev.azure.com/Microland33/Demo%20project/_build/latest?definitionId=25&branchName=main)
