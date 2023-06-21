@@ -1,5 +1,6 @@
  
 # Contributing
+[![Build Status](https://dev.azure.com/Microland33/Demo%20project/_apis/build/status%2Fdevopslife1.pipelines-java%20(1)?branchName=main)](https://dev.azure.com/Microland33/Demo%20project/_build/latest?definitionId=25&branchName=main)
 
 adding the line to check the gitapp repo
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
